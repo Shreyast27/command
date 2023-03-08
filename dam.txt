@@ -1,0 +1,13 @@
+regs
+gs
+gs
+gs
+gs
+g
+sg
+sg
+s
+g
+g
+g
+g
